@@ -41,14 +41,7 @@ canvas {
 }
 
 /*** Hoofdstructuur ***/
-.page {
-	
-	min-width: 8em;
-	max-width: 40em;
-	margin: 0.2em auto;
-	background-color: white;
-	overflow: auto;
-}
+
 .pagetitle {
 	text-align: center;
 	line-height:1.5;
